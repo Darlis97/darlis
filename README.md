@@ -1,1 +1,1 @@
-# darlis
+Magisk
